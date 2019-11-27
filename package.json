@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HaoMenghang/group140-webapp.git"
+    "url": "git+https://github.com/HaoMenghang/group14-webapp.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HaoMenghang/group140-webapp/issues"
+    "url": "https://github.com/HaoMenghang/group14-webapp/issues"
   },
-  "homepage": "https://github.com/HaoMenghang/group140-webapp#readme",
+  "homepage": "https://github.com/HaoMenghang/group14-webapp#readme",
   "dependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
